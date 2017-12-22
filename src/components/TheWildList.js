@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 class TheWildList extends Component {
   render() {
     return (
-      <ul className="App-TheWildList">
+      <ul className="app-the-wild-list">
         { 
           AnimalAPI.all().map(animal => (
             <li key={animal.number}>

@@ -4,8 +4,8 @@ import { Link } from 'react-router-dom';
 class Header extends Component {
   render() {
     return (
-      <header className="App-header">
-        <h1 className="App-title">cosmic roots</h1>
+      <header className="app-header">
+        <h1 className="app-title">cosmic roots</h1>
       </header>
     );
   }

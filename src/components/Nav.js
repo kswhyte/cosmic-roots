@@ -1,23 +1,22 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 
-import logo from '../logo/cosmic-roots-logo-W.svg';
-
-class Header extends Component {
+class Nav extends Component {
   render() {
     return (
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+      <div className="nav-container">
         <nav>
-          <ul className="route-link-container">
-            <li><Link to='/'>Home</Link></li>
-            <li><Link to='/about'>About</Link></li>
-            <li><Link to='/thewild'>TheWild</Link></li>
+          <ul className="nav-links">
+            <li><Link to='/'>home</Link></li>
+            <li><Link to='/about'>about</Link></li>
+            <li><Link to='/thewild'>content</Link></li>
+            <li><Link to='/thewild'>contact</Link></li>
+            <li><Link to='/blog'>blog</Link></li>
           </ul>
         </nav>
-      </header>
+      </div>
     );
   }
 }
 
-export default Header;
+export default Nav;

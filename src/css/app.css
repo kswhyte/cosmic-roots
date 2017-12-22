@@ -1,0 +1,102 @@
+ * {
+  font-family: "Lucida Grande";
+ }
+
+.app {
+  text-align: center;
+}
+
+.app-logo {
+  height: 600px;
+  /* margin: 100px; */
+}
+
+.hero-block {
+  background: url('../images/manuel-will-156344-cropped.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;  
+  height: 950px;
+}
+
+.hero-container {
+  height: 700px;
+  top: 120px;
+  align-content: center;
+  /* margin: auto; */
+  position: relative;
+  /* background-color: transparent; */
+}
+
+.image {
+  /* background-color: white;   */
+  background-image: url('../images/biel-morro-126773.jpg');  
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center; 
+  height: 300px;
+}
+
+.nav-container {
+  background: transparent;
+}
+
+.nav-links {
+  margin: 20px auto 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  position: fixed;
+  text-align: center;
+  right: 50%;
+  left: 50%;
+}
+
+.app-header {
+  background-color: #222;
+  height: 50px;
+  padding: 20px 0 28px;
+  color: white;
+}
+
+.app-title {
+  font-size: 1.5em;
+  letter-spacing: 30px;
+}
+
+.main-wrapper {
+  margin: 40px;
+}
+
+.app-intro {
+  font-size: large;
+}
+
+a {
+  font-size: 16px;
+  margin: 30px;
+  top: 20px;
+  text-decoration: none;
+  color: rgb(155, 155, 155);
+}
+
+a:hover {
+  color: white;
+}
+
+ul {
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
+.animal-info {
+  color: royalblue;
+}
+
+@keyframes app-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}

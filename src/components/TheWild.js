@@ -7,7 +7,7 @@ import Animal from './Animal.js';
 class TheWild extends Component {
   render() {
     return (
-      <div className="App-TheWild">
+      <div className="app-the-wild">
         <h1>This is the THEWILD page</h1>
         <h2>SUBROUTES:</h2>
         <Switch>

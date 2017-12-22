@@ -9,7 +9,7 @@ class Main extends Component {
   render() {
     return (
       <div className="main-wrapper">
-        <h1 className="App-intro">A Demo for ReactRouter 4</h1>
+        <h1 className="app-intro">A Demo for ReactRouter 4</h1>
         <h2>ROUTES:</h2>
         <Switch>
           <Route exact path='/' component={Home} />
