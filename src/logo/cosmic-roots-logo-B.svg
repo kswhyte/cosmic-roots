@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="3031px" height="7144px" viewBox="0 0 3031 7144" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>cosmic-roots-logo-B</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M1983.51186,3383.71875 C2759.61001,3383.71875 3388.76186,2756.98036 3388.76186,1983.85938 C3388.76186,1210.73839 2759.61001,584 1983.51186,584 C1207.41372,584 578.261861,1210.73839 578.261861,1983.85938" id="path-1"></path>
+        <filter x="-0.5%" y="-0.4%" width="101.0%" height="101.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="7.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="7.5" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cosmic-roots-logo-B" transform="translate(-490.000000, -578.000000)">
+            <path d="M1970,3581.12099 C2553.52691,3423.89963 2515.22508,2806.34751 2515.22508,2806.34751" id="Path-3" stroke="#000000" stroke-width="33" stroke-linecap="round"></path>
+            <path d="M1977.74086,3581.12099 C1394.21395,3423.89963 1432.51577,2806.34751 1432.51577,2806.34751" id="Path-3" stroke="#000000" stroke-width="33" stroke-linecap="round"></path>
+            <path d="M1971,4754.34751 C2630.16128,4978.30736 2586.89492,5858.00257 2586.89492,5858.00257" id="Path-3" stroke="#000000" stroke-width="33" stroke-linecap="round"></path>
+            <path d="M1979.47755,4754.34751 C1320.31627,4978.30736 1363.58263,5858.00257 1363.58263,5858.00257" id="Path-3" stroke="#000000" stroke-width="33" stroke-linecap="round"></path>
+            <path d="M1970,3582.34751 C2471.94818,3706.94656 2439.00106,4196.36103 2439.00106,4196.36103" id="Path-3" stroke="#000000" stroke-width="33" stroke-linecap="round"></path>
+            <path d="M1976.44472,3582.34751 C1474.49654,3706.94656 1507.44367,4196.36103 1507.44367,4196.36103" id="Path-3" stroke="#000000" stroke-width="33" stroke-linecap="round"></path>
+            <path d="M1970,4753.71653 C2471.94818,4640.00332 2439.00106,4193.34751 2439.00106,4193.34751" id="Path-3" stroke="#000000" stroke-width="33" stroke-linecap="round"></path>
+            <path d="M1976.44472,4753.71653 C1474.49654,4640.00332 1507.44367,4193.34751 1507.44367,4193.34751" id="Path-3" stroke="#000000" stroke-width="33" stroke-linecap="round"></path>
+            <path d="M1496.5,5209.84751 L2452.5,5209.84751" id="Line" stroke="#000000" stroke-width="19" stroke-linecap="round"></path>
+            <path d="M2490.5,5304.84751 L1558.5,5304.84751" id="Line" stroke="#000000" stroke-width="19" stroke-linecap="round"></path>
+            <path d="M1424.5,5414.84751 L2423.5,5414.84751" id="Line" stroke="#000000" stroke-width="19" stroke-linecap="round"></path>
+            <path d="M1507.5,4153.84751 L2436.5,4153.84751" id="Line" stroke="#000000" stroke-width="19" stroke-linecap="round"></path>
+            <path d="M2434.5,4248.84751 L1594.5,4248.84751" id="Line" stroke="#000000" stroke-width="19" stroke-linecap="round"></path>
+            <path d="M1532.5,4358.84751 L2333.5,4358.84751" id="Line" stroke="#000000" stroke-width="19" stroke-linecap="round"></path>
+            <path d="M1476.5,3103.84751 L2468.5,3103.84751" id="Line" stroke="#000000" stroke-width="19" stroke-linecap="round"></path>
+            <path d="M2428.5,3198.84751 L1639.5,3198.84751" id="Line" stroke="#000000" stroke-width="19" stroke-linecap="round"></path>
+            <path d="M1581.5,3309.84751 L2259.5,3309.84751" id="Line" stroke="#000000" stroke-width="19" stroke-linecap="round"></path>
+            <path d="M2589.5,5947.84751 L2591,5949.34751" id="Line" stroke="#000000" stroke-width="33" stroke-linecap="square"></path>
+            <path d="M2587.21558,5850.34751 C2587.21558,5850.34751 2584.74541,5902.78391 2596.52808,6005.94126 C2608.31075,6109.09862 2701.61738,6289.26594 2803.82502,6352.64562 C2854.38671,6383.99928 2969.73087,6435.53447 3023.21962,6452.11129 C3267.21195,6527.72752 3199.07864,6684.29471 3272.97913,6764.67618 C3346.87963,6845.05764 3461.45892,6873.90478 3461.45892,6873.90478" id="Path-4" stroke="#000000" stroke-width="33" stroke-linecap="round"></path>
+            <path d="M2840.29177,6372.34751 C2840.29177,6372.34751 2967.44945,6577.67108 2884.22706,6706.76246 C2865.19154,6736.28962 2817.32278,6772.53499 2817.32278,6772.53499 C2817.32278,6772.53499 2723.16627,6837.88688 2797.71632,7000.17999 C2835.3225,7082.04747 2889.42806,7184.21934 2946.19179,7260.72993 C3001.9558,7335.89302 3069.28487,7329.22526 3117.0569,7311.27801 C3213.45741,7275.06176 3276.3294,7355.10485 3318.28894,7422.89922 C3360.24848,7490.69358 3385.47755,7705.39439 3385.47755,7705.39439" id="Path-5" stroke="#000000" stroke-width="33" stroke-linecap="round"></path>
+            <path d="M1971.5,4756.84751 L3138.5,4756.84751" id="Line" stroke="#000000" stroke-width="33" stroke-linecap="round"></path>
+            <path d="M3239.5057,4756.84751 L3504.4943,4756.84751" id="Line" stroke="#000000" stroke-width="33" stroke-linecap="round"></path>
+            <path d="M1501.5,4755.84751 L1976.5,4755.84751" id="Line" stroke="#000000" stroke-width="33" stroke-linecap="round"></path>
+            <path d="M1132.5,4755.84751 L1394.5,4755.84751" id="Line" stroke="#000000" stroke-width="33" stroke-linecap="round"></path>
+            <path d="M506.5,4755.84751 L1025.5,4755.84751" id="Line" stroke="#000000" stroke-width="33" stroke-linecap="round"></path>
+            <path d="M2957.93767,7276.34751 C2957.93767,7276.34751 2985.22753,7294.31739 2957.93767,7373.73033 C2930.64781,7453.14326 2904.83258,7436.68143 2887.64079,7499.73814 C2870.44901,7562.79485 2887.64079,7631.94908 2887.64079,7631.94908" id="Path-6" stroke="#000000" stroke-width="33" stroke-linecap="round"></path>
+            <path d="M1362.54329,5858.34751 C1362.54329,5858.34751 1333.51034,6343.73417 1699.91956,6412.21367 C2066.32878,6480.69316 2045.9938,6725.15556 2119.78929,6760.96577 C2139.57424,6770.56668 2165.6278,6777.65191 2199.88911,6780.18244 C2264.19647,6784.93214 2337.80547,6790.71964 2370.19425,6811.78967 C2385.73341,6821.89843 2401.27966,6832.20485 2418.5142,6864.51409 C2435.74874,6896.82332 2448.07395,6962.00257 2448.07395,6962.00257" id="Path-7" stroke="#000000" stroke-width="33" stroke-linecap="round"></path>
+            <path d="M2046.0879,6748.36489 C2046.0879,6748.36489 2128.88903,6807.50551 2068.8109,6898.6852 C2051.24726,6925.34129 2045.05625,6951.2953 2046.10546,6982.57081 C2047.15467,7013.84633 2090.11915,7138.06801 2090.11915,7138.06801" id="Path-8" stroke="#000000" stroke-width="33" stroke-linecap="round" transform="translate(2068.332534, 6943.216452) rotate(17.000000) translate(-2068.332534, -6943.216452) "></path>
+            <path d="M1405.82806,6142.34751 C1458.17963,6427.47251 1056.09369,6541.62876 1056.09369,6541.62876 C1056.09369,6541.62876 989.281442,6559.20125 971.960877,6607.14439 C954.640312,6655.08752 948.372312,6672.02958 1008.17181,6727.16783 C1013.08621,6731.69916 1018.11212,6735.76815 1023.19801,6739.4202 M1025.11639,6740.77614 C1081.43563,6779.95623 1147.43447,6803.49527 1185.52338,6818.41001 C1203.04749,6825.27205 1272.38319,6850.62384 1317.67181,6898.85533 C1362.96044,6947.08681 1391.54984,7027.65139 1391.89056,7057.32408 C1392.40971,7102.53504 1406.0904,7185.01382 1383.18744,7278.19126 C1347.153,7424.79225 1467.54123,7570.70565 1586.06244,7610.73814" id="Path-9" stroke="#000000" stroke-width="33" stroke-linecap="round"></path>
+            <path d="M962.436452,6670.34751 C962.436452,6670.34751 1023.95208,6810.08189 912.577077,6892.16783 C801.202077,6974.25376 858.983327,7059.48033 858.983327,7059.48033" id="Path-10" stroke="#000000" stroke-width="33" stroke-linecap="round"></path>
+            <ellipse id="Oval" stroke="#000000" stroke-width="33" cx="1983.5" cy="1944.34751" rx="523.5" ry="535"></ellipse>
+            <ellipse id="Oval-2" stroke="#000000" stroke-width="33" fill="#000000" cx="1982.5" cy="1931.34751" rx="64.5" ry="64"></ellipse>
+            <g id="Oval-3" stroke-dasharray="156,274" transform="translate(1983.511861, 1983.859375) rotate(-45.000000) translate(-1983.511861, -1983.859375) ">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use stroke="#000000" stroke-width="15" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>
